@@ -1,13 +1,11 @@
 /vendor/
 /node_modules/
 /.idea
-/.vscode
 /.vagrant
 Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-.env
 .env.testing
 .phpunit.result.cache
 composer.lock
@@ -16,3 +14,4 @@ phpunit.xml
 *.swp
 *.swo
 *~
+config.bat
